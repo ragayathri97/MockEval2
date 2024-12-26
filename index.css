@@ -3,6 +3,9 @@ box-sizing: border-box;
 margin: 0px;
 padding: 0px;
 }
+h1,h2,h3,p{
+    margin: 0 0 15px;
+}
 .question-card{
             border: 2px solid violet;
             padding: 10px;
