@@ -15,6 +15,10 @@ h1,h2,h3,p{
         .question-card.reviewed{
             border-color:violet ;
         }
+        #questionGrid{         
+            max-width: 600px;
+            margin: 0 auto;
+        }
         .question-grid{
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
