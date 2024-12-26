@@ -1,4 +1,4 @@
-const baseUrl='/questions/';
+const baseUrl='https://hip-lying-mongoose.glitch.me/questions';
 
 //post
 function addQuestion(questionData){
